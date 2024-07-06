@@ -21,6 +21,7 @@ This repository contains a Windows batch file script for managing the `hosts` fi
 Upon running the script, you will be presented with the following menu:
 
 ================================
+
 Hosts File Management Script
 Please choose an option:
 
@@ -63,4 +64,4 @@ Enter your choice (1/2/3/4):
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
